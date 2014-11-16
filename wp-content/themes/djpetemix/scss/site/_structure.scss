@@ -1,5 +1,5 @@
 /**
- * Table of Contents for FoundationPress:
+ * Table of Contents:
  *
  * 1.0 - Custom settings
  * 2.0 - Typography
@@ -100,11 +100,11 @@ img.alignright {
 }
 
 // Add some whitespace above the footer for medium-up screens
-@media #{$medium-up} {
-	footer.row {
-		margin-top: rem-calc(60);
-	}
-}
+//@media #{$medium-up} {
+//	footer.row {
+//		margin-top: rem-calc(60);
+//	}
+//}
 
 
 /**
